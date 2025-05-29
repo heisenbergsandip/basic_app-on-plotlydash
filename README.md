@@ -74,9 +74,9 @@ Navigate to: [http://127.0.0.1:8050](http://127.0.0.1:8050)
 
 ## 📸 Screenshots
 
-![Screenshot](images/Screenshot 2025-05-29 194856.png)
-![Screenshot](images/Screenshot 2025-05-29 194927.png)
-![Screenshot](images/Screenshot 2025-05-29 195001.png)
+[Screenshot](images/Screenshot 2025-05-29 194856.png)
+[Screenshot](images/Screenshot 2025-05-29 194927.png)
+[Screenshot](images/Screenshot 2025-05-29 195001.png)
  
 
 ## 📜 License
