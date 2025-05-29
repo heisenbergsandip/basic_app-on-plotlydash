@@ -68,15 +68,16 @@ Navigate to: [http://127.0.0.1:8050](http://127.0.0.1:8050)
 ```
 ├── app.py              # Main Dash app
 ├── README.md           # Project documentation
+├── images              # Screenshots of UI
 ```
 
 ---
 
 ## 📸 Screenshots
 
-[Screenshot](images/Screenshot 2025-05-29 194856.png)
-[Screenshot](images/Screenshot 2025-05-29 194927.png)
-[Screenshot](images/Screenshot 2025-05-29 195001.png)
+[Screenshot 1 ](images/one.png) <br>
+[Screenshot 2](images/two.png) <br>
+[Screenshot 3](images/three.png)
  
 
 ## 📜 License
